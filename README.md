@@ -1,8 +1,8 @@
 # WJBrennan-Voting
 
-The inspiration for this project came from lesson 8 of Prof. Wolfgang Alschner's course, Data Science for Lawyers (https://www.datascienceforlawyers.org/learning-resources/lesson-8/).
+The inspiration for this project came from lesson 8 of Prof. Wolfgang Alschner's course, Data Science for Lawyers (https://www.datascienceforlawyers.org/learning-resources/lesson-8/). The lesson involves using machine learning to make predictions regarding a judge's voting record. The lesson uses a dataset that contains Justice Brennan's SCOTUS voting record from the 1950s-1980s.
 
-The model is adapted from from the classification project in unit 4 of Codecademy's skills path, Build Deep Learning Models with TensorFlow.
+This project uses a deep learning model adapted from the classification project in unit 4 of Codecademy's skills path, Build Deep Learning Models with TensorFlow. 
 
 Files:
 
