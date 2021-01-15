@@ -12,4 +12,6 @@ Files:
 * WJBrennan_1980s_Testing - 4 layer deep neural network, splits dataset so that 1980s data is used for testing
 * WJBrennan_voting - CSV dataset from Prof. Alschner's course
 
+The first model randmonly splits the dataset (test vs. training). Predictive accuracy seems quite good at ~78%.
 
+The second model splits the dataset so that the 1980s voting record is used for testing. Model accuracy drops significantly. With tuning, the best result I've achieved so far is 69% (but sometimes the result is much poorer).
